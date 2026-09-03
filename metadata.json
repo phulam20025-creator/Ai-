@@ -1,0 +1,6 @@
+{
+  "name": "PixelPrompt Studio - 2D Pixel Game Prompt Creator",
+  "description": "Trình tạo prompt chuyên sâu phát triển Game 2D Pixel cho Google AI Studio, kèm cẩm nang prompt engineering và bộ giả lập retro game tương tác.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
